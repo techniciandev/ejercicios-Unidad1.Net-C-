@@ -1,0 +1,14 @@
+/home/charls/Escritorio/Unidad1Ejercicios.NET/bin/Debug/net8.0/Unidad1Ejercicios.NET
+/home/charls/Escritorio/Unidad1Ejercicios.NET/bin/Debug/net8.0/Unidad1Ejercicios.NET.deps.json
+/home/charls/Escritorio/Unidad1Ejercicios.NET/bin/Debug/net8.0/Unidad1Ejercicios.NET.runtimeconfig.json
+/home/charls/Escritorio/Unidad1Ejercicios.NET/bin/Debug/net8.0/Unidad1Ejercicios.NET.dll
+/home/charls/Escritorio/Unidad1Ejercicios.NET/bin/Debug/net8.0/Unidad1Ejercicios.NET.pdb
+/home/charls/Escritorio/Unidad1Ejercicios.NET/obj/Debug/net8.0/Unidad1Ejercicios.NET.GeneratedMSBuildEditorConfig.editorconfig
+/home/charls/Escritorio/Unidad1Ejercicios.NET/obj/Debug/net8.0/Unidad1Ejercicios.NET.AssemblyInfoInputs.cache
+/home/charls/Escritorio/Unidad1Ejercicios.NET/obj/Debug/net8.0/Unidad1Ejercicios.NET.AssemblyInfo.cs
+/home/charls/Escritorio/Unidad1Ejercicios.NET/obj/Debug/net8.0/Unidad1Ejercicios.NET.csproj.CoreCompileInputs.cache
+/home/charls/Escritorio/Unidad1Ejercicios.NET/obj/Debug/net8.0/Unidad1Ejercicios.NET.dll
+/home/charls/Escritorio/Unidad1Ejercicios.NET/obj/Debug/net8.0/refint/Unidad1Ejercicios.NET.dll
+/home/charls/Escritorio/Unidad1Ejercicios.NET/obj/Debug/net8.0/Unidad1Ejercicios.NET.pdb
+/home/charls/Escritorio/Unidad1Ejercicios.NET/obj/Debug/net8.0/Unidad1Ejercicios.NET.genruntimeconfig.cache
+/home/charls/Escritorio/Unidad1Ejercicios.NET/obj/Debug/net8.0/ref/Unidad1Ejercicios.NET.dll
